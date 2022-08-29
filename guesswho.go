@@ -1,4 +1,5 @@
-//This is a basic game
+//This is a basic game - The user must "guess a name" of a character and they can either ask for a tip or guess right away. The player starts with 6 points. Every tip costs 1 point, every mistake costs 2 points.
+//Soon I will recreate it, using JavaScript and HTML, for a web - and more interactive - version.
 
 package main
 
