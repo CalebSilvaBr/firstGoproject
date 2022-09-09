@@ -1,0 +1,22 @@
+body {background-color:rgb(48, 18, 129);font-family:arial;color:white}
+h1{color:rgb(42, 0, 119);font-family:verdana}
+.maindiv {
+    background: url(backgroud-02.jpg) no-repeat center center;
+    background-size: 720px 405px;
+    color: black;
+    width: 500px;
+    padding: 50px;
+    border-radius: 25px;
+    align-items: center;
+    margin: auto;
+    margin-top: 50px;
+    position: relative;
+}
+button {
+    background-color: rgb(48, 18, 129);
+    border: none;
+    border-radius: 30%;
+    padding: 2%;
+    color: white
+}
+
